@@ -1,8 +1,7 @@
 {
   "spider":"https://raw.iqiq.io/2hacc/TVBox/main/jar/tvbox.png;md5;610006075c76f429d58dd046404e6d4d",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-  "lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby8yaGFjYy9UVkJveC9tYWluL2xpdmUvbGl2ZS50eHQ="]}]}],
-  "sites":[
+  "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDIvMEVSY3pJMGJfekIudHh0P3NpZ249RHMyWW43SjY4eUVpN2FaS0pKcHUtN01hck1xZUlCLXlKbEotZGRacDJBVSUzRCUzQTA="]}]}],  "sites":[
     {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":0,"quickSearch":0,"filterable":1},
     {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_dd5555","name":"555","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
