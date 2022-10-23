@@ -2,7 +2,8 @@
   "spider":"https://raw.iqiq.io/2hacc/TVBox/main/jar/tvbox.png;md5;610006075c76f429d58dd046404e6d4d",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMjk5MDIvMEVSY3pJMGJfekIudHh0P3NpZ249RHMyWW43SjY4eUVpN2FaS0pKcHUtN01hck1xZUlCLXlKbEotZGRacDJBVSUzRCUzQTA="]}]}],  "sites":[
-    {"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":0,"quickSearch":0,"filterable":1},
+    {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/nmys.json"},
+    //{"key":"csp_Kunyu77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":0,"quickSearch":0,"filterable":1},
     {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":0,"quickSearch":0,"filterable":1},
     {"key":"csp_dd5555","name":"555","api":"csp_Dy555","type":3,"filterable":1,"quickSearch":1,"searchable":1},
     {"key":"csp_SP293","name":"293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
@@ -22,7 +23,7 @@
     {"key":"csp_Zxzj","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"3EDY","name":"3E(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"csp_LibVio","name":"LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/nmys.json"},
+    
     
     {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/token.txt"},
     {"key":"csp_Alist1","name":"Alist网盘","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/2hacc/TVBox/main/json/alist.json"},
